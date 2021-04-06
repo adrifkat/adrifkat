@@ -48,10 +48,10 @@ I'm Rifkat - I'm a web developer based in Kazan, Russia 👨‍💻 Love pasta �
     <img alt="Vue" title="Vue" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
   </a>
   <a href="https://github.com/topics/sass">
-    <img alt="Vue" title="Vue" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+    <img alt="Sass" title="Sass" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
   </a>
   <a href="https://github.com/topics/less">
-    <img alt="Vue" title="Vue" height="36px" src="https://raw.githubusercontent.com/github/explore/3783a65676ba479267fec803885f070760fee4ac/topics/less/less.png">
+    <img alt="Less" title="Less" height="36px" src="https://raw.githubusercontent.com/github/explore/3783a65676ba479267fec803885f070760fee4ac/topics/less/less.png">
   </a>
   <a href="https://github.com/topics/docker">
     <img alt="Docker" title="Docker" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
