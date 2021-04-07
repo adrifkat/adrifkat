@@ -81,3 +81,8 @@ I'm Rifkat - I'm a web developer based in Kazan, Russia 👨‍💻 Love pasta �
   <summary>🔥 Streak stats</summary>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="adrifkat's streak" src="http://github-readme-streak-stats.herokuapp.com?user=adrifkat&theme=black-ice"/>
 </details>
+
+<details>
+  <summary>:trophy: Trophies</summary>
+  <img title="Trophies" alt="adrifkat's trophies" src="https://github-profile-trophy.vercel.app/?username=adrifkat&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=onedark"/>
+</details>
