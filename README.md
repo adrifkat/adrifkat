@@ -27,6 +27,8 @@ I'm Rifkat - I'm a web developer based in Kazan, Russia 👨‍💻 Love pasta �
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echo-magento&repo=docker-magento2&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-stats"></a>
   <a href="https://github.com/adrifkat/grumphp-stylelint-task">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrifkat&repo=grumphp-stylelint-task&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-stats"></a>
+   <a href="https://github.com/adrifkat/cryptopanic">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrifkat&repo=cryptopanic&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-stats"></a>
 </p>
 
 ## 👨‍💻 Languages and tools
