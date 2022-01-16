@@ -59,32 +59,3 @@ I'm Rifkat - I'm a web developer based in Kazan, Russia 👨‍💻 Love pasta �
     <img alt="Docker" title="Docker" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
   </a>
 </p>
-
-## 🕛 Wakatime Week Stats
-
-<p align="center">
-  <img title="🔥 Wakatime Week Stats" alt="adrifkat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=adrifkat&theme=react"/>
-</p>
-
-
-## 📊 More Stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <img alt="lrusso96's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=adrifkat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="lrusso96's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adrifkat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<details>
-  <summary>🔥 Streak stats</summary>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="adrifkat's streak" src="http://github-readme-streak-stats.herokuapp.com?user=adrifkat&theme=black-ice"/>
-</details>
-
-<details>
-  <summary>:trophy: Trophies</summary>
-  <img title="Trophies" alt="adrifkat's trophies" src="https://github-profile-trophy.vercel.app/?username=adrifkat&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=onedark"/>
-</details>
